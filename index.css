@@ -1,0 +1,112 @@
+
+
+
+body { 
+    background-image: url('667669-candy-stripe-retro.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 10px;
+    padding: 30px;
+    margin-top: 30px;
+    width: 96%;
+    background-color: white;
+}
+
+
+li a {
+    display: block;
+    color: deeppink;
+    font-family: Verdana;
+    padding: 5px 143px;
+    text-decoration: none;    
+}
+
+li {
+    float: left;
+    background-color: white;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: deeppink;
+    color: white;
+}
+
+.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.page-content {
+	font-family: 'Noto Sans', sans-serif;
+	color: deeppink;
+	font-size: 700%;
+	z-index: 1;
+	margin-left: 45%;
+	margin-top: 4%
+}
+
+
+.heading {
+	color: mediumvioletred;
+	font-family: 'Noto Sans', sans-serif;
+	margin-left: 35%;
+	margin-top: 8%;
+	font-size: 300%;
+}
+
+
+.text {
+	font-family: 'Noto Sans', sans-serif;
+	color: mediumvioletred;
+	font-size: 150%;
+	margin-left: 4%;
+	margin-right: 4%;
+	margin-bottom: 10%;
+}
+
+
+.value {
+	font-family: 'Noto Sans', sans-serif;
+	color: deeppink;
+	margin-left: 48%;
+	font-size: 400%;
+}
+
+
+.myChart {
+	max-width: auto;
+	max-height: 300px;
+	margin-top: 50%;
+	margin-left: 50%
+}
+
+.godisbild {
+	width: 800px;
+	margin-top: 8%;
+	margin-left: 33%;
+	border-radius: 50%;
+}
+
+.giphy {
+	margin-left: 33%;
+	margin-top: 3%;
+}
+
+.giphy2 {
+	margin-left: 33%;
+	margin-top: 3%;
+	margin-bottom: 10%;
+}
+
+
+
+
+
+
+
+
